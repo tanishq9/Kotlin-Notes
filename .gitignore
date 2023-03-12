@@ -1,0 +1,20 @@
+# ignoring gradle files
+.gradle/
+
+# ignorning eclipse files
+.classpath
+.project
+.settings/
+.idea
+bin/
+logs/
+
+output
+/build/
+**/build/
+.DS_Store
+phantomjsdriver.log
+src/UI/app/*.js
+src/UI/app/*.js.map
+src/UI/app/data/*.js
+src/UI/app/data/*.js.map
